@@ -1,5 +1,5 @@
 # Ruby on Rails Tutorial: first application
 
-This is the first application for the
+ESTA ES MI PRIMERA APLICACION APRENDIENDO A LA MALA RUBY ON RAILS, GIT Y HEROKU
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+ALDO GUSTAVO FRANCISCO
